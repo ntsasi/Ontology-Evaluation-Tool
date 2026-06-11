@@ -440,8 +440,8 @@ with top1:
     case_type = st.selectbox(
         "Case Type",
         [
-            "semantic_name_extension",
-            "new_node_extension"
+            "extension_cases",
+            "new_node_cases"
         ]
     )
 
